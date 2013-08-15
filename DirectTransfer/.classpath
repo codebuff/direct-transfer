@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="azureus3/src"/>
+	<classpathentry kind="src" path="uis/src"/>
+	<classpathentry kind="src" path="azureus2/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="azureus2/lib/apple-extensions.jar"/>
+	<classpathentry kind="lib" path="azureus2/lib/swt-carbon.jar"/>
+	<classpathentry kind="lib" path="azureus2/lib/swt-cocoa.jar"/>
+	<classpathentry kind="lib" path="uis/lib/commons-cli.jar"/>
+	<classpathentry kind="lib" path="uis/lib/junit.jar"/>
+	<classpathentry kind="lib" path="uis/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
