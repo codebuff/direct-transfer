@@ -1,0 +1,44 @@
+                 _____  _               _     _______                   __          
+                |  __ \(_)             | |   |__   __|                 / _|         
+                | |  | |_ _ __ ___  ___| |_     | |_ __ __ _ _ __  ___| |_ ___ _ __ 
+                | |  | | | '__/ _ \/ __| __|    | | '__/ _` | '_ \/ __|  _/ _ \ '__|
+                | |__| | | | |  __/ (__| |_     | | | | (_| | | | \__ \ ||  __/ |   
+                |_____/|_|_|  \___|\___|\__|    |_|_|  \__,_|_| |_|___/_| \___|_|   
+                www.facebook.com/directtransfer         ported by Deepankar Tyagi       
+                                                                     
+             allows you to transfer/share  files over intranet 
+             currently the app is coded specially for NU network but in future 
+             code will incorporate rules and algorithm to support other 
+             networks   
+                   ___  ____  ____  ____  ____  ____  ___ 
+                  / __)(  _ \( ___)(  _ \(_  _)(_  _)/ __)
+                 ( (__  )   / )__)  )(_) )_)(_   )(  \__ \
+                  \___)(_)\_)(____)(____/(____) (__) (___/ 
+              
+              for finding about base code press help > about source app in menu bar
+              
+          A heartfelt thanks to >> MR SWAMI << for helping me during the designing and developing 
+          process without his help I wouldn't have a clue how different protocols work
+          
+          big thanks to >> Nakul and Lalit << for designing the logo of this app and testing
+          >>  Nakul can be reached here  <<
+                  www.behindthestrokes.com    ||   www.facebook.com/BehindtheStrokesGraphics
+                  
+           and ofcourse big thanks to you for having faith in this app ( and possibly in me )
+           
+                                 ------
+                              // remember //
+           << this is a functional app not a finished app >>
+                               &&
+         >> I am a coder by passion but student by profession <<
+            
+               which means that I will make sure that this software is developed further 
+               but due to college course load it may take some time for me to implement new 
+                 features/remove bug etc 
+                                         
+                                         Deepankar Tyagi
+                                                 ( www.facebook.com/nonfatalist )
+                                      
+                                      
+                                                        
+                             
