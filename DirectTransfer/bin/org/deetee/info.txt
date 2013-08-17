@@ -1,8 +1,0 @@
-this package contains some of code implemented by me which could not be merged safely in
-existing codebase
-
-in future this may contains some implementor classes
-
-other code is spread inside main code
-                                      ----
-                                            Deepankar Tyagi
