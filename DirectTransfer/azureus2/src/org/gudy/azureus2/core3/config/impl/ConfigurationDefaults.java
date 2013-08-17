@@ -486,7 +486,7 @@ public class ConfigurationDefaults {
     def.put( "Password enabled", FALSE );
     def.put( "Password", null );
     def.put( "config.interface.checkassoc", TRUE );
-    def.put( "confirmationOnExit", FALSE );
+    def.put( "confirmationOnExit", TRUE );//earlier false
     def.put( "locale", Locale.getDefault().toString() );
     def.put( "locale.set.complete.count", ZERO);
     def.put( "Password Confirm", null );
