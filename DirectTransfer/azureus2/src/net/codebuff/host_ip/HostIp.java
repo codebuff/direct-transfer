@@ -1,4 +1,4 @@
-package org.deetee.host_ip;
+package net.codebuff.host_ip;
 // support of ipv6 is disabled
 import java.net.Inet4Address;
 import java.net.InetAddress;

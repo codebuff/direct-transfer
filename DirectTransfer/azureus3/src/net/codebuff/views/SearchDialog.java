@@ -1,4 +1,4 @@
-package com.deetee.views;
+package net.codebuff.views;
 
 import org.eclipse.swt.widgets.Dialog;
 import org.eclipse.swt.widgets.Display;

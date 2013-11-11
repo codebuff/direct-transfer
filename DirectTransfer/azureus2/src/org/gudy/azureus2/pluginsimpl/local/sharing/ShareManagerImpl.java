@@ -33,6 +33,8 @@ import java.net.URL;
 import java.net.UnknownHostException;
 import java.util.*;
 
+import net.codebuff.host_ip.HostIp;
+
 import org.gudy.azureus2.core3.config.COConfigurationListener;
 import org.gudy.azureus2.core3.config.COConfigurationManager;
 import org.gudy.azureus2.core3.config.ParameterListener;
@@ -48,8 +50,6 @@ import org.gudy.azureus2.pluginsimpl.local.PluginInitializer;
 import org.gudy.azureus2.pluginsimpl.local.torrent.TorrentImpl;
 
 import com.aelitis.azureus.core.AzureusCoreFactory;
-
-import org.deetee.host_ip.HostIp;;
 
 public class 
 ShareManagerImpl

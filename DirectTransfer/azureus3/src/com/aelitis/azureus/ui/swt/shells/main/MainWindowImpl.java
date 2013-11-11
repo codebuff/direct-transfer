@@ -20,10 +20,9 @@
 
 package com.aelitis.azureus.ui.swt.shells.main;
 
-import com.deetee.views.SearchDialog;
-import com.deetee.views.TrackerChangedDialog;
-
-import org.deetee.localTracker.TrackerChanged;
+import net.codebuff.localTracker.TrackerChanged;
+import net.codebuff.views.SearchDialog;
+import net.codebuff.views.TrackerChangedDialog;
 
 import java.io.ByteArrayInputStream;
 import java.io.File;
