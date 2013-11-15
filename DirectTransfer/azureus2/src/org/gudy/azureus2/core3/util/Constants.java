@@ -121,7 +121,7 @@ Constants
   public static String APP_NAME = "Direct Transfer";//might be changed
   public static final String AZUREUS_NAME	  					= "DirectTransfer";//Azureus";//might be changed
   public static final String AZUREUS_PROTOCOL_NAME_PRE_4813	  	= "Azureus";//might be changed
-  public static final String AZUREUS_PROTOCOL_NAME	  			= "Vuze";//might be changed
+  public static final String AZUREUS_PROTOCOL_NAME	  			= "DT";//earlier VUZE
   public static final String AZUREUS_VERSION  = "5.0.0.0";//might be changed
   public static final String BUILD_VERSION  = "@build.version@";   //Ant replace
   public static final String AZUREUS_SUBVER	  = "";//might be changed

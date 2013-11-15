@@ -70,7 +70,7 @@ StartServer
     	// DON'T USE LOGGER HERE DUE TO COMMENTS BELOW - IF AZ ALREADY RUNNING THEN THE SERVERSOCKET
     	// CALL WILL THROW AN EXCEPTION 
     	
-    	socket = new ServerSocket(6880, 50, InetAddress.getByName("127.0.0.1")); //NOLAR: only bind to localhost
+    	socket = new ServerSocket(6888, 50, InetAddress.getByName("127.0.0.1")); //NOLAR: only bind to localhost
         
         state = STATE_LISTENING;    
         
