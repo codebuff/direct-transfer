@@ -1,5 +1,7 @@
 package com.aelitis.azureus.ui.swt.shells.main;
 
+import net.codebuff.views.ShareMenu;
+
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.*;
 import org.eclipse.swt.widgets.*;
@@ -102,7 +104,8 @@ public class MainMenu
 				}
 			});
 		}*/
-
+        ShareMenu.addShareMenu(menuBar);
+        
 		addV3HelpMenu();
 
 		/*
