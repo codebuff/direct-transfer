@@ -253,7 +253,7 @@ public class Initializer
 					}
 				});
 
-		FeatureManagerUI.registerWithFeatureManager();
+		//FeatureManagerUI.registerWithFeatureManager();
 
 		COConfigurationManager.setBooleanDefault("ui.startfirst", true);
 		STARTUP_UIFIRST = STARTUP_UIFIRST
@@ -445,7 +445,7 @@ public class Initializer
 					
 					reportCurrentTaskByKey("splash.openViews");
 	
-					SWTUpdateChecker.initialize();
+					//SWTUpdateChecker.initialize();
 	
 					PreUpdateChecker.initialize(core,
 							COConfigurationManager.getStringParameter("ui"));
